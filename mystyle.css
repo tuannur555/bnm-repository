@@ -1,4 +1,4 @@
-﻿* {
+* {
   box-sizing: border-box;
 }
 
@@ -176,6 +176,13 @@ tr:nth-child(even) {
   background-color: #6faafc;
 }
 
+.column {
+  width: 50%;
+  padding: 10px;
+  height: 170px; 
+  width: 100%;
+} 
+
 /*footer*/
 .footer {
   position: relative;
@@ -186,3 +193,4 @@ tr:nth-child(even) {
   left: 0;
   bottom: 0;
   height: 200px; }
+
